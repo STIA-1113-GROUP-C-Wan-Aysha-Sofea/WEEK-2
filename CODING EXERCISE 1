@@ -1,0 +1,31 @@
+package Exercise;
+
+public class OneDayCampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I woke up early in the morning to pray and start my morning routine");
+		System.out.println();
+		System.out.println("I went for a morning walk with my friends and having breakfast together");
+		System.out.println();
+		System.out.println("Me and my friends attend the online classes and help each other with the tasks");
+		System.out.println();
+		System.out.println("After finish the classes, i relaxed my mind by watching my favorite movies or animes");
+		System.out.println();
+		System.out.println("I usually had a quick nap around one or two hours to energized myself ");
+		System.out.println();
+		System.out.println("In the evening, I went for a jog or a walk while enjoying the beautiful scenery");
+		System.out.println();
+		System.out.println("I went back and had a shower and pray");
+		System.out.println();
+		System.out.println("I had my dinner before I start to do my works and assignment");
+		System.out.println();
+		System.out.println("I did my works and ask for help when i cannot understand");
+		System.out.println();
+		System.out.println("After finished my work or if I am too tired, I went to sleep");
+		
+		
+		
+	}
+
+}
